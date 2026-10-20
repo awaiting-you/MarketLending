@@ -16,7 +16,7 @@ export const site = {
   telegramHref: "https://t.me/sdvig_agency",
   address: "Москва, ул. Бауманская, 7, стр. 1",
   hours: "Пн–Пт, 10:00–19:00",
-  url: "https://sdvig.agency",
+  url: "https://market-lending.vercel.app",
 } as const;
 
 export const nav = [

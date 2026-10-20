@@ -1,0 +1,8 @@
+# Нормализация переносов строк: репозиторий одинаково выглядит на Windows и Linux
+* text=auto
+
+# Бинарные файлы не трогаем
+*.png binary
+*.jpg binary
+*.woff2 binary
+*.ico binary

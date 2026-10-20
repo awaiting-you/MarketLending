@@ -6,7 +6,7 @@
 **Все тексты, цифры, кейсы и тарифы вымышлены** — это демонстрационный макет.
 
 > Репозиторий: [`awaiting-you/MarketLending`](https://github.com/awaiting-you/MarketLending) ·
-> Живая версия: <https://marketlending.vercel.app> · портфолио-описание: [`PORTFOLIO.md`](PORTFOLIO.md)
+> Живая версия: <https://market-lending.vercel.app> · портфолио-описание: [`PORTFOLIO.md`](PORTFOLIO.md)
 
 ## Стек
 
